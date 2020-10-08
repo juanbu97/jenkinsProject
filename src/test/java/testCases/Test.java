@@ -16,6 +16,11 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Test {
 
+	/*
+	 * Adding some commets for jenkins 
+	 * 
+	 * 
+	 */
 	static final String BROWSER = "chrome"; // Constante navegador
 	public static WebDriver driver; // Objeto WebDriver
 	public static int resultado;
